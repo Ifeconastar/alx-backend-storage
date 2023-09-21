@@ -1,2 +1,2 @@
-// remove all document with attr name equals to Holberton School
-db.school.deleteMany({name: "Holberton school"})
+// Script that removes documents from a collection
+db.school.deleteMany({"name": "Holberton school"})
