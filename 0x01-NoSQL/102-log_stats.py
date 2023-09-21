@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 102 module.
+'''Task 15's module.
 '''
 from pymongo import MongoClient
 
